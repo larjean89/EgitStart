@@ -15,7 +15,7 @@ public class SampleHandler extends AbstractHandler {
 		MessageDialog.openInformation(
 				window.getShell(),
 				"EgitStart",
-				"Hello, Eclipse world");
+				"Hello, Eclipse world Welcome");
 		return null;
 	}
 }
